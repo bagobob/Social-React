@@ -1,0 +1,1 @@
+This project is a personnel project done to learn the React Framework and Node JS 
